@@ -5,3 +5,5 @@
 🧩 <b>Need help with:</b> Integrating new technologies or optimizing code for better performance. If you have any tips or want to share your experience, I’d love to hear from you!<br>
 💬 <b>Ask me about:</b> JavaScript, TypeScript, React, Node.js, or my favorite VS Code extensions. I’m also a fan of productivity hacks and automation tools.<br><br>
 📬 <b>Reach me at:</b> [olegsydorchuk9@gmail.com] or drop me a message here on GitHub.
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
